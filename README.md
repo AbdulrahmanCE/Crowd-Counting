@@ -1,0 +1,2 @@
+# Crowd-Counting
+We propose a solution for managing crowds in Al-haram which is a system for crowd counting that uses a Convolutional Neural Network (CNN) to estimate the number of people and the density map in a particular area. We looked in the literature for the most suitable model which is CSRNet. Then we used UCF-CC50 dataset and especially Al-Haram's data to train the model. We tested the model on unseen data from the dataset and we got an 8.36 mean absolute error (MAE). Lastly, we built a website to make the system accessible to the end-user.
