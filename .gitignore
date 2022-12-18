@@ -1,0 +1,7 @@
+Data/ground-truth/*
+!Data/ground-truth/.gitkeep
+
+Data/images/*
+!Data/images/.gitkeep
+
+plots/
